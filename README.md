@@ -2,6 +2,15 @@
 
 Hand-gesture controlled photobooth app that runs entirely in the browser. No installation, no backend, and no dependencies to install.
 
+**Live Demo:** [https://puzzlecam-rust.vercel.app](https://puzzlecam-rust.vercel.app)
+
+---
+
+## **LIVE DEMO**
+
+Try the app directly in your browser (no local setup required):  
+👉 **[puzzlecam-rust.vercel.app](https://puzzlecam-rust.vercel.app)**
+
 ---
 
 ## **DESCRIPTION**
